@@ -1,0 +1,23 @@
+module Base
+{
+    imports
+    {
+        Base
+    }
+
+	model WalkieTalkiePremium
+    {
+        mesh = Weapons/1Handed/WalkieTalkie,
+        texture = weapons/1handed/WalkieTalkie_Premium,
+    }
+
+	item Teleporter
+	{
+	    DisplayCategory = Communications,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	Teleporter,
+		Icon	=	WalkieTalkieCivilian2,
+		WorldStaticModel = WalkieTalkiePremium,
+	}
+}

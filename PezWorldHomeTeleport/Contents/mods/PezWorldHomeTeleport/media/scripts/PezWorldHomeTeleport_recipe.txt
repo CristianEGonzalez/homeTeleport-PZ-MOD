@@ -1,0 +1,15 @@
+module Base
+{
+    recipe Make Teleporter
+    {
+        Aluminum=2,
+        Amplifier=1,
+		ElectricWire=2,
+		ElectronicsScrap=4,
+		RadioReceiver=1,
+		RadioTransmitter=1,
+		Battery=1,
+        Result:Teleporter,
+        Time:30.0,
+    }
+}

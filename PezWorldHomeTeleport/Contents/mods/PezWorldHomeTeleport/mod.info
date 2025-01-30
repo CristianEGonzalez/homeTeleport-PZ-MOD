@@ -1,0 +1,9 @@
+id=PezWorldHomeTeleport
+name=PezWorld Home Teleport [B41]
+description=Home Teleporter crafteable item for MP servers.
+poster=poster.png
+authors=PezWorld
+tags=Build 41
+versionMin=41.0
+
+

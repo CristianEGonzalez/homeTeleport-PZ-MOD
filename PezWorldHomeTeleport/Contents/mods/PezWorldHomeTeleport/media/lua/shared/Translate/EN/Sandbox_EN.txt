@@ -1,0 +1,5 @@
+Sandbox_EN = {
+	Sandbox_PezWorldHomeTeleport = "PWHomeTeleport",
+
+    Sandbox_CooldownTime = "Cooldown Time",
+}

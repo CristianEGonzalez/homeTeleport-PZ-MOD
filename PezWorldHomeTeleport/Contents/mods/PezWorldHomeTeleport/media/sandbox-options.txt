@@ -1,0 +1,11 @@
+VERSION = 1,
+
+option PezWorldHomeTeleport.CooldownTime
+{
+    type = double,
+    min = 0.0,
+    max = 96.0,
+    default = 24.0,
+    page = PezWorldHomeTeleport,
+    translation = CooldownTime,
+}
