@@ -1,6 +1,57 @@
 version=1
 id=3417207251
 title=PezWorld Home Teleport [B41]
-description=Home Teleporter crafteable item for MP servers.
+
+description=[h1]ENGLISH[/h1]  
+description=Please, if you like my content, rate it, and I would greatly appreciate a comment and adding it to favorites! That motivates me to continue contributing to the community!  
+description=[h2][MOD INFORMATION][/h2]  
+description=Teleporter craftable item for Multiplayer servers / Only players.  
+description=Right clicking on the item opens a contextual menu with 2 options:  
+description=Set Home: To save your current location.  
+description=Teleport to Home: To return to that location.  
+description=It is possible to configure the Cooldown time (in hours) for reuse from the sandbox options.  
+description=    recipe Make Teleporter  
+description=    {  
+description=        Aluminum = 2,  
+description=        Amplifier = 1,  
+description=        ElectricWire = 2,  
+description=        ElectronicsScrap = 4,  
+description=        RadioReceiver = 1,  
+description=        RadioTransmitter = 1,  
+description=        Battery = 1,  
+description=        Result: Teleporter,  
+description=        Time: 30.0,  
+description=    }  
+description=[hr]
+description=[h1]SPANISH[/h1]  
+description=Por favor si le gusta mi contenido califícalo, y le agradecería muchísimo un comentario y que lo agregue a favoritos! Eso me motiva a seguir aportando a la comunidad!  
+description=  
+description=[h2][INFORMACIÓN DEL MOD][/h2]  
+description=  
+description=Artículo fabricable "Teletransportador" para servidores Multiplayer / Un Jugador.  
+description=Al hacer click derecho en el item se abre un menú contextual con 2 opciones:  
+description=Set Home: Para guardar tu ubicación actual.  
+description=Teleport to Home: Para regresar a esa ubicación.  
+description=  
+description=Es posible configurar el tiempo de Cooldown para su reutilización desde las sandbox options.  
+description=    receta Crear Teletransportador  
+description=    {  
+description=        Papel de aluminio = 2,  
+description=        Amplificador = 1,  
+description=        Cable eléctrico = 2,  
+description=        Chatarra electrónica = 4,  
+description=        Radiorreceptor = 1,  
+description=        Radiotransmisor = 1,  
+description=        Pila = 1,  
+description=        Resultado: Teletransportador,  
+description=        Tiempo: 30.0,  
+description=    }  
+description=[hr]
+description=[h3]  
+description=Workshop ID: 3417207251  
+description=Mod ID: PezWorldHomeTeleport  
+description=[/h3]  
+
+
 tags=Build 41;Items;Misc;Multiplayer
 visibility=public
